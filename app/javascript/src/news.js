@@ -1,1 +1,1 @@
-console.log('hello from news', Date.now());
+console.log('hello from news');
