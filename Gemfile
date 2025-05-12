@@ -60,7 +60,7 @@ group :development, :test do
   gem 'pry-rails', '>= 0.3.9'
   gem 'rspec-rails', '~> 7'
   gem 'rubocop', '~> 1.36'
-  gem 'rubocop-rspec', '2.12'
+  gem 'rubocop-rspec', '3.6.0'
 end
 
 group :development do
