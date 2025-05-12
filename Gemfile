@@ -55,7 +55,7 @@ group :development, :test do
 
   # Added by Altcademy.com
   gem 'awesome_print', '~> 1.9'
-  gem 'dotenv-rails', '~> 2.8'
+  gem 'dotenv-rails', '~> 3.1'
   gem 'factory_bot_rails', '~> 6.2'
   gem 'pry-rails', '>= 0.3.9'
   gem 'rspec-rails', '~> 7'
