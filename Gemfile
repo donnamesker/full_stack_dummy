@@ -51,7 +51,7 @@ gem 'bootsnap', '>= 1.13', require: false
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
-  gem 'byebug', '~> 11.1.3', platforms: %i[mri mingw x64_mingw]
+  gem 'byebug', '~> 12.0.0', platforms: %i[mri mingw x64_mingw]
 
   # Added by Altcademy.com
   gem 'awesome_print', '~> 1.9'
