@@ -285,7 +285,7 @@ GEM
       tilt
     securerandom (0.4.1)
     semantic_range (3.1.0)
-    spring (2.1.1)
+    spring (4.3.0)
     sprockets (4.2.2)
       concurrent-ruby (~> 1.0)
       logger
@@ -349,7 +349,7 @@ DEPENDENCIES
   rubocop (~> 1.36)
   rubocop-rspec (= 2.12)
   sass-rails (~> 6.0)
-  spring (< 3.0)
+  spring (< 5.0)
   sqlite3 (~> 1.4)
   turbolinks (~> 5.2.1)
   web-console (>= 4.2)
